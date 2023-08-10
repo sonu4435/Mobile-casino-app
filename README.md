@@ -19,4 +19,4 @@ If you would like to contribute to the development of this app, please follow th
 4. Submit a pull request to have your changes reviewed and merged into the main branch
 
 ## License
-This app is licensed under the MIT License.
+This app is licensed under the GNU General Public License v3.0
