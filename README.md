@@ -11,6 +11,7 @@ This is a casino app built using HTML, CSS, and JavaScript. It is designed for m
 ## Viewing
 To view the app, visit the GitHub repository and follow the instructions provided.
 server to view live: https://potential-lamp-74rq6pw494vcp76q-5500.app.github.dev/Trade%20mobile%20app/
+use mobile device to open run server .
 
 ## Contributing
 If you would like to contribute to the development of this app, please follow these steps:
